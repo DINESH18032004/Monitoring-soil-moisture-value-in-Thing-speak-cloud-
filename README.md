@@ -1,6 +1,6 @@
 ## NAME : DINESH KUMAR R
 ## REG NO : 212222110010
-# EX-05 Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# EX 05 : Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
